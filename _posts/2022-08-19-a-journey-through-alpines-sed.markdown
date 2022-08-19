@@ -8,9 +8,9 @@ categories: regex draft
 [This is a draft post]
 
 Outline:
-Interesting hook first - tl;dr I think musl's regex is slightly off spec
-Short reproduction code
-Explanation of change
+- Interesting hook first - tl;dr I think musl's regex is slightly off spec
+- Short reproduction code
+- Explanation of change
 
 The "How the Heck did you find this" story:
   - bash-it tests:
