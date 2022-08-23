@@ -6,5 +6,8 @@ serve:
 doctor:
 	bundle exec jekyll doctor
 
+check-update:
+	bundle update --all --major || echo should probably update
+
 clean:
 	bundle exec jekyll clean

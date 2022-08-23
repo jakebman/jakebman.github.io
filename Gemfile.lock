@@ -70,14 +70,14 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  http_parser.rb (~> 0.6.0)
-  jekyll (~> 4.2.2)
-  jekyll-feed (~> 0.12)
-  minima (~> 2.5)
-  tzinfo (~> 1.2)
+  http_parser.rb (>= 0.6.0)
+  jekyll
+  jekyll-feed
+  minima
+  tzinfo
   tzinfo-data
-  wdm (~> 0.1.1)
-  webrick (~> 1.7)
+  wdm (>= 0.1.1)
+  webrick
 
 BUNDLED WITH
    2.3.20
