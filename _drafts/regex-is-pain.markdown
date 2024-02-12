@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Regex is Pain, Princess" # TODO: I really want to italicize Princess
-date:   2022-08-19 12:16:25 -0600
+title:  "There's something about Regex"
+date:   2022-08-22 22:52:30-06:00
 categories: regex draft
 ---
 
